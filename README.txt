@@ -2,7 +2,7 @@
 
 Overview: This is a static, multi-page frontend for a premium travel booking website built with HTML5 and CSS3. It includes four pages: Home, Destinations, Packages, and Contact, designed with a neon aesthetic, mobile-first responsiveness, and semantic HTML. The site promotes travel experiences with a polished, modern design.
 
-## Folder Structure:
+### Folder Structure:
 
 
 
