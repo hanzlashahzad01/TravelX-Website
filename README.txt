@@ -1,40 +1,40 @@
-TravelX - Premium Travel Booking Website
+#### TravelX - Premium Travel Booking Website
 
 Overview: This is a static, multi-page frontend for a premium travel booking website built with HTML5 and CSS3. It includes four pages: Home, Destinations, Packages, and Contact, designed with a neon aesthetic, mobile-first responsiveness, and semantic HTML. The site promotes travel experiences with a polished, modern design.
 
-Folder Structure:
+## Folder Structure:
 
 
 
 
 
-index.html: Home page with hero banner, top destinations, why choose us, and testimonials.
+## index.html: Home page with hero banner, top destinations, why choose us, and testimonials.
 
 
 
-destinations.html: Displays 6 destinations in a grid with images, prices, and durations.
+## destinations.html: Displays 6 destinations in a grid with images, prices, and durations.
 
 
 
-packages.html: Lists 3 travel packages with itineraries and features.
+## packages.html: Lists 3 travel packages with itineraries and features.
 
 
 
-contact.html: Contains a contact form and office details with a map placeholder.
+## contact.html: Contains a contact form and office details with a map placeholder.
 
 
 
-css/style.css: Shared stylesheet with Flexbox, CSS Grid, and responsive design.
+## css/style.css: Shared stylesheet with Flexbox, CSS Grid, and responsive design.
 
 
 
-assets/images/: Placeholder for local images (currently using Unsplash URLs).
+## assets/images/: Placeholder for local images (currently using Unsplash URLs).
 
 
 
-assets/icons/: Placeholder for social media icons (not used in this version).
+## assets/icons/: Placeholder for social media icons (not used in this version).
 
-Features:
+## Features:
 
 
 
@@ -82,35 +82,35 @@ Static contact form with name, email, phone, travel date, and message fields.
 
 Unsplash images for hero banner, destinations, packages, and map placeholder.
 
-Implementation Details:
+## Implementation Details:
 
 
 
 
 
-Home: Hero banner with CTA, 3 destination cards, 3 feature items, and 2 testimonial cards using CSS Grid.
+## Home: Hero banner with CTA, 3 destination cards, 3 feature items, and 2 testimonial cards using CSS Grid.
 
 
 
-Destinations: 6-card grid with Unsplash images, prices, durations, and "Book Now" buttons.
+## Destinations: 6-card grid with Unsplash images, prices, durations, and "Book Now" buttons.
 
 
 
-Packages: 3 packages with images, itineraries, and features in a grid layout; details styled as a static accordion-like section.
+## Packages: 3 packages with images, itineraries, and features in a grid layout; details styled as a static accordion-like section.
 
 
 
-Contact: Flexbox layout with a static form and office details, including a map placeholder (Unsplash image).
+## Contact: Flexbox layout with a static form and office details, including a map placeholder (Unsplash image).
 
 
 
-Responsive Design: Grid layouts adapt to 2-column (992px) and 1-column (768px, 576px) on smaller screens; navbar stacks vertically on mobile.
+## Responsive Design: Grid layouts adapt to 2-column (992px) and 1-column (768px, 576px) on smaller screens; navbar stacks vertically on mobile.
 
 
 
-Visual Polish: Consistent neon color theme (#00ffcc accents), balanced spacing, and modern typography.
+## Visual Polish: Consistent neon color theme (#00ffcc accents), balanced spacing, and modern typography.
 
-How to Use:
+## How to Use:
 
 
 
@@ -130,7 +130,7 @@ Open any HTML file in a browser to view.
 
 Test responsiveness using browser developer tools or by resizing the window.
 
-Notes:
+## Notes:
 
 
 
